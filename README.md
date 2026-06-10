@@ -1,3 +1,5 @@
+🏗️📚 Entity Relationship Model (ERM) of the Library Management System
+
 <img width="1101" height="631" alt="library_erd" src="https://github.com/user-attachments/assets/06f07108-427f-418f-9403-cdf5e20d261d" />
 
 
